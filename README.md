@@ -42,3 +42,5 @@ If you have any questions or would like to get in touch, please email me at jask
 Instagram: @code_with_hintxx
 GitHub: @JaskiratSingh26
 LinkedIn: Jaskirat Singh
+
+React & Vite portfolio featuring smooth scrolling, animations, Firebase data, & Tailwind CSS styling. Explore my projects!
